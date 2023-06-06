@@ -10,8 +10,8 @@ export const AboutMe = () => {
         <Subtitle>Sobre mi</Subtitle>
       </div>
       <p className="text-base mb-5">
-        Soy Mariano Tellaeche, de 32 años, originario de Los Toldos, provincia de Buenos Aires, pero
-        resido en la Ciudad Autónoma de Buenos Aires desde 2009.
+        Soy Mariano Tellaeche, de {age} años, originario de Los Toldos, provincia de Buenos Aires,
+        pero resido en la Ciudad Autónoma de Buenos Aires desde 2009.
       </p>
       <p className="text-base mb-5">
         Desde 2016 trabajo en el campo del desarrollo de software, habiendo comenzado mis estudios
