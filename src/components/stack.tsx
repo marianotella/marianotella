@@ -62,7 +62,7 @@ export const Stack = () => {
           Estas son las tecnologías con las que vengo trabajando el último tiempo
         </p>
       </div>
-      <div className="grid gap-32 grid-cols-2 lg:grid-cols-3 items-center justify-items-center w-5/6 mx-auto">
+      <div className="grid gap-20 md:gap-32 grid-cols-2 lg:grid-cols-3 items-center justify-items-center w-5/6 mx-auto">
         {IMAGES.map((image, index) => (
           <img
             className="w-auto grayscale hover:grayscale-0 transition-all hover:scale-110 max-h-[60px] md:max-h-[120px]"
