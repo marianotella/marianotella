@@ -22,7 +22,7 @@ const SOCIAL: Social[] = [
 
 export const Social = () => {
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex md:flex-col gap-4 justify-center">
       {SOCIAL.map((social) => {
         return (
           <a

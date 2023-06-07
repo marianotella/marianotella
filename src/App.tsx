@@ -27,7 +27,7 @@ function App() {
       <section className="mt-20 pt-20 max-auto w-full mb-10">
         <Footer />
       </section>
-      <aside className="fixed bottom-10 right-8">
+      <aside className="md:fixed bottom-10 right-8">
         <Social />
       </aside>
     </div>
