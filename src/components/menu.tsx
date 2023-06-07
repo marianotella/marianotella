@@ -52,7 +52,7 @@ export const Menu = () => {
   const [selected, setSelected] = useState(0)
 
   return (
-    <div className="flex bg-[#262626cc] md:bg-[#D9D9D966] py-2 px-6 md:rounded-lg gap-6 font-light">
+    <div className="flex bg-[#262626cc] py-4 md:bg-[#D9D9D966] md:py-2 px-6 md:rounded-lg gap-6 font-light justify-center">
       {MENU_BUTTONS.map((button, index) => (
         <MenuButton
           key={`button-${index}`}
