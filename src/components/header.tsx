@@ -16,15 +16,18 @@ export const Header = () => {
           className="font-fira-code text-3xl mb-10"
           sequence={[`Hola.`, 1000]}
           cursor={false}
+          wrapper="p"
         />
         <TypeAnimation
           className="font-fira-code text-2xl md:text-3xl lg:text-5xl"
           sequence={[1500, `SOY MARIANO TELLAECHE`, 1000]}
           cursor={false}
+          wrapper="h1"
         />
         <TypeAnimation
           className="font-fira-code text-2xl md:text-3xl lg:text-5xl"
           sequence={[3000, `FULL-STACK DEVELOPER_`, 1000]}
+          wrapper="h2"
         />
       </div>
     </div>
