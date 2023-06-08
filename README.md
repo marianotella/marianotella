@@ -5,34 +5,57 @@
 </p>
 
 <p align="center">
-   Actualmente trabajo con el stack de Node.js y TypeScript, y tengo experiencia previa en PHP.
+   FULLSTACK DEVELOPER 
 </p>
 
+<p align="center">
+   <strong>TYPESCRIPT | NODEJS | REACT</strong>
+</p>
+
+<hr>
+
+<div style="margin: 20px"></div>
+
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=marianotella">
+   <picture>
+      <source
+      srcset="https://stats.marianotella.dev/api/top-langs/?username=marianotella&layout=compact&theme=solarized-dark"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://stats.marianotella.dev/api/top-langs/?username=marianotella&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://stats.marianotella.dev/api/top-langs/?username=marianotella&layout=compact">
+   </picture>
 </div>
 
-### Tecnologías con las que trabajo:
-- JavaScript
-- Node.js
-- React.js
-- TypeScript
-- Express.js
-- MongoDB
-- PostgreSQL
-- Redis
-- Docker
-- AWS
-- HTML
-- CSS
-- MySQL
-- PHP
-- Laravel
-- Vue.js
+<div style="margin: 30px"></div>
 
+<div align="center">
+   <picture>
+      <source
+      srcset="https://stats.marianotella.dev/api?username=marianotella&show_icons=true&theme=solarized-dark"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://stats.marianotella.dev/api?username=marianotella&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://stats.marianotella.dev/api?username=marianotella&show_icons=true" />
+   </picture>
+</div>
 
-### Puedes encontrarme en: 
-- [LinkedIn](https://www.linkedin.com/in/marianotella/)
+<div style="margin: 20px"></div>
 
-### Contacto
-- Email: [marianotellaeche@gmail.com](mailto:marianotellaeche@gmail.com)
+<hr>
+
+<div style="margin: 20px"></div>
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-marianotella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianotella/)](https://www.linkedin.com/in/marianotella/)
+   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/marianotella)](https://github.com/marianotella)
+   [![GitHub](https://img.shields.io/badge/-marianotella.dev-181717?style=flat-square&logo=appveyor&logoColor=white&link=https://marianotella.dev)](https://marianotella.dev)
+   [![Gmail Badge](https://img.shields.io/badge/-marianotellaeche@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianotellaeche@gmail.com)](mailto:marianotellaeche@gmail.com)
+
+</div>
