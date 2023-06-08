@@ -6,7 +6,7 @@ export const Contact = () => {
       <div className="mb-[70px]">
         <Subtitle>Contacto</Subtitle>
       </div>
-      <p className="md:w-3/6 mx-auto text-center">
+      <p className="md:w-3/6 mx-auto text-center text-balanced">
         Activamente en busca de nuevas oportunidades, mi bandeja de entrada está abierta. Si tienes
         un proyecto con el que empezar, una pregunta o simplemente quieres saludarme, ¡haré todo lo
         posible por responderte!
