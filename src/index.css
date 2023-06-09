@@ -11,3 +11,8 @@
 .text-balanced{
   text-wrap: balance
 }
+
+.gradientBackground {
+  background: rgb(18,14,38);
+  background: linear-gradient(180deg, rgba(18,14,38,1) 0%, rgba(26,50,78,1) 25%, rgba(29,88,117,1) 50%, rgba(40,130,149,1) 75%, rgba(75,172,173,1) 100%);
+}

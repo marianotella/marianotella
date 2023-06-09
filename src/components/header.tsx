@@ -8,7 +8,7 @@ export const Header = () => {
         <img
           src={marianotella}
           alt="marianotella"
-          className="drop-shadow-[0_0_5px_rgba(227,223,214,1)] mx-auto min-w-[250px]"
+          className="drop-shadow-[0_0_5px_rgba(227,223,214,1)] mx-auto w-[250px]"
         />
       </div>
       <div className="flex flex-col justify-center text-center lg:text-left min-h-min">
@@ -25,7 +25,7 @@ export const Header = () => {
           wrapper="h1"
         />
         <TypeAnimation
-          className="font-fira-code text-2xl md:text-3xl lg:text-5xl"
+          className="font-fira-code text-2xl md:text-3xl lg:text-5xl text-secondary"
           sequence={[3000, `FULL-STACK DEVELOPER_`, 1000]}
           wrapper="h2"
         />
