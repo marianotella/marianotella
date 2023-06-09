@@ -7,6 +7,9 @@ const tailwindConfig = {
         'fira-code': ['Fira Code', 'monospace'],
         roboto: ['Roboto', 'sans-serif'],
       },
+      colors: {
+        secondary: '#F9F871',
+      },
     },
   },
   plugins: [],

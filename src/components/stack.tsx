@@ -17,7 +17,7 @@ interface Image {
 const IMAGES: Image[] = [
   {
     image: node,
-    name: 'Node',
+    name: 'Node.js',
   },
   {
     image: ts,
@@ -64,13 +64,18 @@ export const Stack = () => {
       </div>
       <div className="grid gap-20 md:gap-32 grid-cols-2 lg:grid-cols-3 items-center justify-items-center w-5/6 mx-auto">
         {IMAGES.map((image, index) => (
-          <img
-            className="w-auto grayscale hover:grayscale-0 transition-all hover:scale-110 max-h-[60px] md:max-h-[120px]"
-            src={image.image}
-            alt={image.name}
-            title={image.name.toUpperCase()}
+          <div
             key={`image-${index}`}
-          />
+            className="flex flex-col items-center gap-4 hover:text-secondary transition-all hover:scale-110"
+          >
+            <img
+              className="w-auto  max-h-[60px] md:max-h-[120px]"
+              src={image.image}
+              alt={image.name}
+              title={image.name.toUpperCase()}
+            />
+            <p className="font-fira-code">{image.name}</p>
+          </div>
         ))}
       </div>
     </>

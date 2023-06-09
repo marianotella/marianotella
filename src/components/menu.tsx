@@ -39,7 +39,7 @@ const MenuButton = (props: MenuButtonProps) => {
   return (
     <div
       className={`cursor-pointer hover:transition-all hover:scale-110 ${
-        props.selected ? 'font-normal' : ''
+        props.selected ? 'font-normal text-secondary' : ''
       }`}
       onClick={props.onClick}
     >
@@ -52,7 +52,7 @@ export const Menu = () => {
   const [selected, setSelected] = useState(0)
 
   return (
-    <div className="flex bg-[#111111] py-4 md:bg-[#D9D9D966] md:py-2 px-6 md:rounded-lg gap-6 font-light justify-center">
+    <div className="flex bg-[#1a324e] py-4 gap-6 font-light justify-center rounded-t-3xl md:bg-[#D9D9D966] md:py-2 px-6 md:rounded-lg">
       {MENU_BUTTONS.map((button, index) => (
         <MenuButton
           key={`button-${index}`}

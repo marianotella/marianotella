@@ -9,7 +9,7 @@ import { Social } from './components/social'
 function App() {
   return (
     <>
-      <div className="bg-[#120E26] text-white p-6 m-0 w-full h-full" id="start">
+      <div className="text-white p-6 m-0 w-full h-full gradientBackground" id="start">
         <div className="fixed bottom-0 left-0 right-0 md:top-6 md:right-10 md:left-auto md:bottom-auto z-10">
           <Menu />
         </div>
