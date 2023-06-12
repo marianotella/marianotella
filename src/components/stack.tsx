@@ -21,15 +21,15 @@ const IMAGES: Image[] = [
   },
   {
     image: ts,
-    name: 'Typescript',
+    name: 'TypeScript',
   },
   {
     image: js,
-    name: 'Javascript',
+    name: 'JavaScript',
   },
   {
     image: postgres,
-    name: 'Postgresql',
+    name: 'PostgreSQL',
   },
   {
     image: mongo,
@@ -49,7 +49,7 @@ const IMAGES: Image[] = [
   },
   {
     image: aws,
-    name: 'Amazon web services',
+    name: 'Amazon Web Services',
   },
 ]
 
@@ -58,9 +58,7 @@ export const Stack = () => {
     <>
       <div className="mb-[70px]">
         <Subtitle>Stack Tecnológico</Subtitle>
-        <p className="text-center mt-4">
-          Estas son las tecnologías con las que vengo trabajando el último tiempo
-        </p>
+        <p className="text-center mt-4">Estas son las tecnologías con las que trabajo</p>
       </div>
       <div className="grid gap-20 md:gap-32 grid-cols-2 lg:grid-cols-3 items-center justify-items-center w-5/6 mx-auto">
         {IMAGES.map((image, index) => (
