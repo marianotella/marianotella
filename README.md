@@ -55,7 +55,6 @@
 
    [![Linkedin Badge](https://img.shields.io/badge/-marianotella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianotella/)](https://www.linkedin.com/in/marianotella/)
    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/marianotella)](https://github.com/marianotella)
-   [![GitHub](https://img.shields.io/badge/-marianotella.dev-181717?style=flat-square&logo=appveyor&logoColor=white&link=https://marianotella.dev)](https://marianotella.dev)
    [![Gmail Badge](https://img.shields.io/badge/-marianotellaeche@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianotellaeche@gmail.com)](mailto:marianotellaeche@gmail.com)
 
 </div>
